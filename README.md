@@ -11,37 +11,28 @@ It’s built using **TensorFlow**, **Keras**, **NLTK**, and **scikit-learn**, wi
 ## 📁 Project Structure
 Product-review-sentiment-analysis/
 
-
-─ 📁 data/ 
-
-    Review.csv 
-    clean-data.csv
-
-─ 📁 models/ 
-
-    text_classification_model.h5
-    tokenizer.pkl
-─ 📁 src/ 
-
-    data_split.py 
-    preproces.py 
-    model.py 
-    train.py 
-    predict.py 
-    save_tokenizer.py 
-    __init__.py 
+```
+─ 📁 data/
+    ├── Reviews.csv
+    └── clean-data.csv
+─ 📁 models/
+    ├── text_classification_model.h5
+    └── tokenizer.pkl
+─ 📁 src/
+    ├── data_split.py
+    ├── preproces.py
+    ├── model.py
+    ├── train.py
+    ├── predict.py
+    ├── save_tokenizer.py
+    └── init.py
 ─ 📁 notebooks/
+    └── eda.ipynb
+─ .gitignore
+─ requirements.txt
+─ README.md
 
-    eda.ipynb
-
--.gitignore/
-
--requirements.txt/
-
--README.md
-
-
-
+```
 ---
 
 ## 🚀 Features

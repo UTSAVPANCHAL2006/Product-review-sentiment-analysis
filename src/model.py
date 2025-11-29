@@ -8,7 +8,7 @@ def build_model(vocab_size, num_classes=3, embedding_dim=128, input_length=200):
     model.add(Dense(64, activation='relu'))
     model.add(Dropout(0.5))
     model.add(Dense(num_classes, activation='softmax'))  # For 3-class classification
-
+  
     model.compile(
         optimizer='adam',
         loss='sparse_categorical_crossentropy',

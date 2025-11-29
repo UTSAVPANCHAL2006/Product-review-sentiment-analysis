@@ -35,7 +35,7 @@ Product-review-sentiment-analysis/
 ```
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ✅ Clean text preprocessing (stopwords, punctuation, lowercase)  
 ✅ Tokenization & padding for sequence modeling  

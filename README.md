@@ -64,7 +64,7 @@ Product-review-sentiment-analysis/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Product-review-sentiment-analysis.git
+git clone https://github.com/UTSAVPANCHAL2006/Product-review-sentiment-analysis.git
 cd Product-review-sentiment-analysis
 ```
 

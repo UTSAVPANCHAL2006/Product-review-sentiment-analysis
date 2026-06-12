@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ### 4️⃣ Prepare the Dataset
 ```bash
 The full dataset (~300 MB) is not uploaded due to GitHub's size limit.
-You can download it from here:
+You can download it from Kaggle
 
 Then place it inside your data/ folder:
 data/clean-data.csv
